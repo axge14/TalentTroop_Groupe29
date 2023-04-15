@@ -823,6 +823,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 573941337085436686}
     m_Modifications:
+    - target: {fileID: 605111723380101501, guid: 268bfa6bc625867458a6cfb131b0176d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.165
+      objectReference: {fileID: 0}
+    - target: {fileID: 605111723380101501, guid: 268bfa6bc625867458a6cfb131b0176d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.236
+      objectReference: {fileID: 0}
     - target: {fileID: 5677459079760771568, guid: 268bfa6bc625867458a6cfb131b0176d, type: 3}
       propertyPath: m_Name
       value: gun

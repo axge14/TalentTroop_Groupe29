@@ -8,10 +8,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes 1/Map finale.unity
     guid: 571d734e472732d4ca30a1014cff9d74
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes 1/test.unity
-    guid: c8f746a0be4aa614d818c10a9ed866e8
+    path: Assets/Scenes 1/Map finale2.unity
+    guid: a229207db36492244a9a9b2dc3d29177
   m_configObjects: {}
