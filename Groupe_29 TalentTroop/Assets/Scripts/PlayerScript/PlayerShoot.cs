@@ -13,7 +13,7 @@ public class PlayerShoot : NetworkBehaviour
     private GameObject weaponGFX;
 
     [SerializeField]
-    private string weaponLayerName = "Weapon";
+    private string weaponLayerName = "gun";
     
     [SerializeField]
     private Camera cam;
@@ -45,13 +45,14 @@ public class PlayerShoot : NetworkBehaviour
     private void Shoot()
     {
         RaycastHit hit;
-
+        
         if (Physics.Raycast(cam.transform.position,cam.transform.forward,out hit,weapon.range,mask))
         {
             if (hit.collider.tag == "Player")
             {
                 CmdPlayerShot(hit.collider.name,weapon.damage);
             }
+            
         }
     }
 
