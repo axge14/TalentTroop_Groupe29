@@ -258,7 +258,7 @@ SphereCollider:
   m_GameObject: {fileID: 573941337209572050}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 0
+  m_Enabled: 1
   serializedVersion: 2
   m_Radius: 0.5
   m_Center: {x: 0, y: 0, z: 0}
@@ -362,7 +362,7 @@ CapsuleCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   m_Radius: 0.5
-  m_Height: 2
+  m_Height: 1
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!143 &5305427544887454842
@@ -460,7 +460,7 @@ MonoBehaviour:
     damage: 30
     range: 100
   weaponGFX: {fileID: 3315087197621837276}
-  weaponLayerName: Weapon
+  weaponLayerName: gun
   cam: {fileID: 573941337085436684}
   mask:
     serializedVersion: 2
@@ -590,7 +590,7 @@ CapsuleCollider:
   m_GameObject: {fileID: 998536146658807546}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 0
+  m_Enabled: 1
   m_Radius: 0.5
   m_Height: 2
   m_Direction: 1
@@ -823,6 +823,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 573941337085436686}
     m_Modifications:
+    - target: {fileID: 605111723380101501, guid: 268bfa6bc625867458a6cfb131b0176d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.165
+      objectReference: {fileID: 0}
+    - target: {fileID: 605111723380101501, guid: 268bfa6bc625867458a6cfb131b0176d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.236
+      objectReference: {fileID: 0}
     - target: {fileID: 5677459079760771568, guid: 268bfa6bc625867458a6cfb131b0176d, type: 3}
       propertyPath: m_Name
       value: gun
