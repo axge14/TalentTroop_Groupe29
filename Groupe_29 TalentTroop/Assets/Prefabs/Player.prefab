@@ -460,7 +460,7 @@ MonoBehaviour:
     damage: 30
     range: 100
   weaponGFX: {fileID: 3315087197621837276}
-  weaponLayerName: gun
+  weaponLayerName: Weapon
   cam: {fileID: 573941337085436684}
   mask:
     serializedVersion: 2
@@ -879,7 +879,12 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 8218475114660435537, guid: 268bfa6bc625867458a6cfb131b0176d, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 3148376940874674278, guid: 268bfa6bc625867458a6cfb131b0176d, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 268bfa6bc625867458a6cfb131b0176d, type: 3}
 --- !u!1 &3315087197621837276 stripped
 GameObject:
