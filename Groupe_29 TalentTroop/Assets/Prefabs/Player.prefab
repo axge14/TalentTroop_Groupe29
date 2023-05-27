@@ -465,6 +465,7 @@ MonoBehaviour:
   syncMode: 0
   syncInterval: 0.1
   maxHealth: 100
+  currentHealth: 0
   kills: 0
   deaths: 0
   disableOnDeath:
@@ -507,7 +508,7 @@ MonoBehaviour:
   syncDirection: 0
   syncMode: 0
   syncInterval: 0.1
-  primaryWeapon: {fileID: 11400000, guid: c3af5dee4168f0c46b48ef8e7deb0714, type: 2}
+  primaryWeapon: {fileID: 11400000, guid: a2e04dc029a3eec4e9e3136838341793, type: 2}
   weaponLayerName: Weapon
   weaponHolder: {fileID: 4166549454002365821}
   currentMagazineSize: 0
