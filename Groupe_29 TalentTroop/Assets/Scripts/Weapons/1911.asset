@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52a2f2dcc1bbede46aefa1703246cdce, type: 3}
+  m_Name: 1911
+  m_EditorClassIdentifier: 
+  name: 1911
+  damage: 5
+  range: 50
+  fireRate: 0
+  magazineSize: 12
+  reloadTime: 2.1
+  graphics: {fileID: 7886525124419727490, guid: 80405db9a9451914c92de605bbdf1d88, type: 3}
+  shootSound: {fileID: 8300000, guid: 0873b1bc7e648894fb2f9b9bc6dbfff5, type: 3}
+  reloadSound: {fileID: 8300000, guid: b081eed8df4aa374ba7eed90519c5849, type: 3}
