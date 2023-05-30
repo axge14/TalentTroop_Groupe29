@@ -6,15 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="7fa66250-ce05-4737-ba96-8a12d0ec7cfb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Groupe_29 TalentTroop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Groupe_29 TalentTroop/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CameraFacingBillBoard.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/CameraFacingBillBoard.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PlayerNameplate.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PlayerNameplate.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AudioScript/shot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/AudioScript/shot.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UserAccountManager.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UserAccountManager.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/GUI/Crosshair.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/GUI/Crosshair.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes 1/Main Menu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes 1/Main Menu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PauseMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PauseMenu.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
     </list>
@@ -110,6 +104,7 @@
       <workItem from="1685111709401" duration="718000" />
       <workItem from="1685187923594" duration="621000" />
       <workItem from="1685433776188" duration="2587000" />
+      <workItem from="1685470565196" duration="2181000" />
     </task>
     <servers />
   </component>
